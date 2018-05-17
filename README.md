@@ -1,26 +1,46 @@
-# UFRN-Dataset-Analysis
+# Analysis-of-IT-students-performance-factors
 
-This repository was created with the purpose of analyzing the public data of the Universidade Federal do Rio Grande do Norte. And to do that we will be using knowledges of: 
-- Numpy
-- Pandas
-- Exploratory data analysis
-- Exploratory data visualization
-- Statistical data visualization
-- Data visualization with Seaborn
+This is a project to analyze which factors influence the performance of IT students of the Digital Metropolis Institute (IMD) and Department of Informatics and Applied Mathematics (DIMAp) of the Federal University of Rio Grande do Norte. The code were implemented in Python 3 and in Jupyter Notebook. We will be using knowledges of:
 
-The codes were implemented in Python 3 and in Jupyter Notebook.
+    Exploratory data analysis
+    Exploratory data visualization
+    Statistical data visualization
+    Data visualization with Seaborn
 
-**Authors**: Aroldo Felix, George Franklin and Júlia Ferreira.
+## Libraries
 
-### Tradução:
-Este repositório foi criado com o objetivo de analisar os dados públicos da Universidade Federal do Rio Grande do Norte. E para isso estaremos usando conhecimentos de:
-- Numpy
-- Pandas
-- Análise exploratória de dados
-- Visualização exploratória de dados 
-- Visualização estatística de dados 
-- Visualização de dados com Seaborn
+    Numpy
+    Pandas
+    Matplotlib
+    Seaborn
 
-Os códigos foram implementados em Python 3 e no Jupyter Notebook.
+## Objective
 
-**Autores**: Aroldo Felix, George Franklin e Júlia Ferreira.
+Our objective was based on identifying what influences students' yield by analysing the number of students by class, teachers admission date, absences, class shift and departament from 2014.1 until 2017.2.
+
+## Details
+
+The project was splitted in some sessions:
+
+    Importing Libraries
+    Reading the open data from http://dados.ufrn.br
+    Data preparation
+    Merge and concatenation of the dataframes
+    Study
+    Conclusion
+
+## Authorship
+
+Developed by Aroldo Felix (junioraroldo37@gmail.com), George Franklin (georgefranklinbti@gmail.com) and Julia Ferreira (juliafsouzag@gmail.com).
+Links
+
+    http://dados.ufrn.br/
+    http://seaborn.pydata.org/tutorial.html
+    http://seaborn.pydata.org/generated/seaborn.FacetGrid.html?highlight=facet%20grid#seaborn.FacetGrid
+    https://matplotlib.org/api/pyplot_summary.html
+    https://pandas.pydata.org/pandas-docs/stable/generated/pandas.pivot_table.html
+    https://docs.scipy.org/doc/numpy-1.13.0/reference/routines.math.html
+
+## Youtube Video
+
+https://youtu.be/uyWZwlhrBKY
