@@ -32,7 +32,8 @@ The project was splitted in some sessions:
 ## Authorship
 
 Developed by Aroldo Felix (junioraroldo37@gmail.com), George Franklin (georgefranklinbti@gmail.com) and Julia Ferreira (juliafsouzag@gmail.com).
-Links
+
+## Links
 
     http://dados.ufrn.br/
     http://seaborn.pydata.org/tutorial.html
